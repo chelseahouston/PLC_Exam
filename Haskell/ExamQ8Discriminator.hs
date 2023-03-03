@@ -1,0 +1,1 @@
+data Staff = Academic String Int | Support String Int
